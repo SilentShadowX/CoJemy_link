@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287031055966",
+    "firebase_url": "https://cojemy-2246d.firebaseio.com",
+    "project_id": "cojemy-2246d",
+    "storage_bucket": "cojemy-2246d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287031055966:android:d1f6896e29c4468b",
+        "android_client_info": {
+          "package_name": "com.kpiega.cojemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287031055966-5vi4u8mcea7btbjsvqs6gp2ggah3nmal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBez39VD05YGHfr7CNp8TTEX8a4utwaNLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

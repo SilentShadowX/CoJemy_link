@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoJemy</string>
+    <string name="default_notification_channel_id">Channel</string>
+    <string name="title_activity_poll">PollActivity</string>
+    <string name="title_activity_user_manager">UserManagerActivity</string>
+    <string name="title_activity_add_poll">AddPollActivity</string>
+    <string name="action_control_panel">Panel administracyjny</string>
+    <string name="title_activity_answer_control">AnswerControlActivity</string>
+    <string name="title_activity_add_answer">AddAnswerActivity</string>
+</resources>
